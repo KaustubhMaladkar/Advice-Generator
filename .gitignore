@@ -16,6 +16,6 @@
 .prettierignore
 
 #Ignore design and images
-/design
-/images
-/favicon
+.jpg
+.prettierignore
+.svg
