@@ -34,8 +34,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Advice Generator using Advice Slip API](https://www.frontendmentor.io/solutions/advice-generator-using-advice-slip-api-JM-FRmxeC6)
+- Live Site URL: [Advice generator](https://kaustubhmaladkar.github.io/Advice-Generator/)
 
 ## My process
 
